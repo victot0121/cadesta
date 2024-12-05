@@ -34,8 +34,8 @@ Below are screenshots of the project showcasing its design and functionality:
 
 1. **Clone the Repository**
    ```bash
-   git clone [repository-link]
-   cd [project-folder]
+   git clone [cadesta]
+   cd [cadesta]
    Install Dependencies Ensure you have npm or yarn installed.
    ```
 
