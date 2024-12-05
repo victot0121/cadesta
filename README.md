@@ -14,11 +14,11 @@ Below are screenshots of the project showcasing its design and functionality:
 
 ### Home Screen
 
-![Home Screen](/cadesta//assets/Screenshot_20241205.jpg)
+![Home Screen](../cadesta/assets//Screenshot_20241205.jpg)
 
 ### Create Project Screen
 
-![Create Project Screen](/cadesta/assets/Screenshot_202412.jpg)
+![Create Project Screen](../cadesta/assets/Screenshot_202412.jpg)
 
 > **Note:** Replace `/cadesta//assets/Screenshot_20241205.jpg` and `/cadesta/assets/Screenshot_202412.jpg` with the actual paths to your images in the project folder.
 
@@ -80,8 +80,6 @@ Victor [Oyiga Victor]
 [victoroyiga01@gmail.com]
 [www.linkedin.com/in/oyiga-victor (Optional)]
 [[my Portfolio](https://oyiga-victor.netlify.app) (Optional)]
-
-
 
 Thank you for reviewing my submission. I look forward to your feedback!
 
